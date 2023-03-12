@@ -1,0 +1,7 @@
+## Hint:
+
+A 
+AAAA
+NX
+CNAME
+TXT
