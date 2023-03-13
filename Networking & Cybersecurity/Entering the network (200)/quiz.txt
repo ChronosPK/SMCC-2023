@@ -1,0 +1,51 @@
+Which of the following is a type of cyber attack?
+Phishing	
+SQL Injections	
+Password Attack	
+[All of the above]	
+
+Which of the following is the least strong security encryption standard?
+WPA3	
+WPA2	
+WPA	
+[WEP]
+
+The ability to recover and read deleted or damaged files from a criminal’s computer is an example of a law enforcement specialty called:
+robotics	
+computer cryptography	
+[computer forensics]
+steganography	
+
+What does ARP do?
+asks a server to translate an IP address to a name	
+associates a known MAC address to an IP address	
+[associates a known IP address to a MAC address]
+distributes IP addresses in a network	
+
+Is ARP secure?
+Yes	
+[No]
+
+What does SSH do?
+requests files from a server 	
+establishes a plain text connection between devices	
+it is a protocol used by printers to authenticate on Active Directory	
+[secure connection between a client and a server]
+
+What protocols are used in the Application Layer?
+[FTP]	
+TCP	
+HTTP	
+SSL	
+
+What is NAT?
+The distribution of IP addresses in a network	
+The translation of the source MAC address when it reaches a switch	
+[The translation of IP addresses when they go out of the internal network]	
+A configuration for IPs inside a network with no outside access. An isolated network	
+
+How many steps are in a TCP connection?
+3 - SYN, ACK, SYN/ACK	
+[3 - SYN, SYN/ACK, ACK]	
+2 - SYN, ACK	
+4 - Key - Message 1,2,3,4
