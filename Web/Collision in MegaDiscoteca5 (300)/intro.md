@@ -7,4 +7,4 @@ Look at this fight capturing 2 men fighiting after a night out in MegaDiscoteca5
 <br>
 After you are done thinking about the MegaDiscoteca, check out this web app: <br>
 
-> ```http://213.177.18.70:8006/collide``` 
+> ```http://213.177.18.70:8006``` 
