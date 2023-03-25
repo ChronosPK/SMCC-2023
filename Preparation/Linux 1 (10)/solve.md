@@ -7,7 +7,7 @@ Send the message "martie".
 <br>
 
 ## Cooler way:
-[solve.py](../solve.py)
+[solve.py](./solve.py)
 
 <br>
 
