@@ -50,3 +50,6 @@ user@linux-ali:~$ unalias cat
 user@linux-ali:~$ cat flag.txt 
 flag{who_let_the_cat_out?}
 ```
+
+Another variant, as a script:
+[solve.sh](./solve.sh)
