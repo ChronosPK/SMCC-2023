@@ -3,7 +3,7 @@
 
 ## Connect
 ```bash
-curl 206.189.59.199:8008/second
+curl 213.177.18.70:8008/second
 ```
 ```plain
 Complete the following tasks to get the flag:
@@ -16,7 +16,7 @@ Complete the following tasks to get the flag:
 
 ## Request the necessary query inside `/flag` directory
 ```bash
-curl 206.189.59.199:8008/second/flag?flag=please
+curl 213.177.18.70:8008/second/flag?flag=please
 ```
 ```plain
 Check your Header.
@@ -37,7 +37,7 @@ echo -n "winner" | md5sum
 
 ## Supply everything together as requested
 ```bash
-curl 206.189.59.199:8008/second/flag?flag=please -H "Sibiu-Academic-CTF: 978f6f608df5279d4d85e700d83ac873"
+curl 213.177.18.70:8008/second/flag?flag=please -H "Sibiu-Academic-CTF: 978f6f608df5279d4d85e700d83ac873"
 ```
 ```plain
 flag{055f8f6aaae4bd63bbc44c81278b9c0afa17c2d7cdf8d39e5649e34d09770407}
