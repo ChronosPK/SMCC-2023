@@ -17,7 +17,7 @@ Complete the following tasks to get the flag:
 
 ## Check the server's application by requesting `-v` verbose output 
 ```bash
-curl 206.189.59.199:8007/first -v
+curl 213.177.18.70:8007/first -v
 ```
 ```plaintext
 < Server: BaseHTTP/0.6 Python/3.7.16
@@ -27,7 +27,7 @@ curl 206.189.59.199:8007/first -v
 
 ## Supply the python version as parameter
 ```bash
-curl 206.189.59.199:8007/first/flag?python=3.7.16
+curl 213.177.18.70:8007/first/flag?python=3.7.16
 ```
 ```plain
 flag{cf4d66370a137b574b4c7e548ff56983b828b457dcbaaf177f0b4797972bc16f}
